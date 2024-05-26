@@ -6,9 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! This site is my personal site. I am currently a Mphil student of Chemistry under supervising of Prof.<a href="[http://dangrover.com](https://chem.hkust.edu.hk/people/xiaoyuan-li-lixiaoyuan)">Li Xiaoyuan</a>. I am also a coming Phd student of ECE in HKUST.
 </p>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+
